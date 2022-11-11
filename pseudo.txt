@@ -1,0 +1,24 @@
+Weather Dashboard
+
+
+user will type into input field and then click the search button
+--need to capture input value
+--need an event listener on the search button
+
+once the user clicks search, i need to display the current forecast and the 5 day forecast
+
+create buttons with the cities name
+
+when user clicks, will show the relevant cities Weather
+
+store weather results in local storage
+
+//because local storage only returns things as string
+json.parse
+json.stringify
+
+get section done with the 1 day forecast
+
+then do the 5-day 
+
+<hr> is horizontal line break
